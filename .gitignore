@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/settings.json
+
+# Node
+node_modules/
+dist/
+.env
+.env.local
+
+# Java / Maven
+target/
+*.class
+*.jar
+
+# Environment secrets
+*.env
+application-prod.yml
+application-dev.yml
